@@ -14,8 +14,8 @@ pipeline {
                     ],
                     userRemoteConfigs: [
                         [
-                            credentialsId: 'Jenkin-2023',
-                            url: 'https://gitea.zhiyungb.com/POPS/psa-all.git'
+                            credentialsId: 'sunest@163.com',
+                            url: 'https://github.com/sledge2015/react.git'
                         ]
                     ]
                 ])
